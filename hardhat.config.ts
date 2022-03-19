@@ -181,10 +181,6 @@ const config: HardhatUserConfig = {
         },
       }
     : undefined,
-  // typechain: {
-  //   outDir: "typechain",
-  //   target: "ethers-v5",
-  // },
 };
 
 // You need to export an object to set up your config
