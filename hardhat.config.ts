@@ -1,5 +1,3 @@
-import { Oracle } from './typechain/Oracle.d';
-import { EternalStorage } from './typechain/EternalStorage.d';
 import 'dotenv/config';
 import '@nomiclabs/hardhat-ethers';
 import '@nomiclabs/hardhat-solhint';

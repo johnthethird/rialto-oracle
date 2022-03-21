@@ -1,5 +1,6 @@
 .env
 .deps
+_private
 coverage
 coverage.json
 typechain
@@ -8,4 +9,6 @@ node_modules
 #Hardhat files
 cache
 artifacts
-private
+
+# Forge
+out
